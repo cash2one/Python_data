@@ -1,0 +1,34 @@
+[account_1]
+username = frank.zhai@corp.to8to.com
+cookies = {'Q': 'u%3D%25O1%25S2%25Q1%25O6%25OS%25P6%25OP%25OP%26n%3D%25P9%25NQ_%25P9%25RR%25O2%25OO%25OP%25SO%25P2%25O9%26le%3DMaWuozfhrzuunFH0ZTAipaNhqT84qT8hL29g%26m%3DZGt2WGWOWGWOWGWOWGWOWGWOAwNk%26qid%3D265595700%26im%3D220255dq9816%26src%3Dpcw_adsystem%26t%3D1', 'T': 's%3Dffc98c91f0f8e15a6bdc7eb10e771c91%26t%3D1457569932%26lm%3D%26lf%3D1%26sk%3Dafc0e2018ccba119e6a270b277555fe1%26mt%3D1457569932%26rc%3D%26v%3D2.0%26a%3D0'}
+apikey = 9ebb95981dac6a1c088d4ca78bf090af
+accesstoken = 9dc042546058b43b4d93c571f630a7b52054e1e042e6e3e12
+apisecret = ececb9e500f4f62cb80c9c8b83b1825d
+sessiontoken = 173d4f60c09741a43f41bf7606f2d2
+password = 123456
+nickname = 彬讯科技
+logintime = 1457569807
+
+[account_2]
+username = 彬讯科技01
+cookies = {'Q': 'u%3D%25O1%25S2%25Q1%25O6%25OS%25P6%25OP%25OP01%26n%3D%26le%3DHayuov5ao25aWGDjL29lpP50omu0ol5wo20%3D%26m%3D%26qid%3D1328353846%26im%3D1_t00df551a583a87f4e9%26src%3Dpcw_adsystem%26t%3D1', 'T': 's%3D0b0e461793c38b95052349cb0b7222bd%26t%3D1457570047%26lm%3D%26lf%3D4%26sk%3D07934b812bceaf58ad195330c4fa9f7b%26mt%3D1457570047%26rc%3D%26v%3D2.0%26a%3D0'}
+apikey = 9ebb95981dac6a1c088d4ca78bf090af
+accesstoken = 3d239f44d4c8bb73c145cf7e76c8ab286406d59bd246d5497
+apisecret = ececb9e500f4f62cb80c9c8b83b1825d
+sessiontoken = 7dd4ccf50a36ce65960dec95d5e2e8
+password = 123456
+nickname = 彬讯科技01
+logintime = 1457569922
+
+[db]
+passwd = 123456
+charset = utf8
+dbname = cube
+host = 192.168.1.119
+user = frem
+port = 3306
+
+[type]
+daybefore = 500
+format = json
+
